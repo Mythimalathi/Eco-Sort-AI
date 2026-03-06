@@ -1,0 +1,7 @@
+{
+  "name": "EcoSort AI",
+  "description": "Smart AI-powered waste sorting and management app for a greener planet.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
